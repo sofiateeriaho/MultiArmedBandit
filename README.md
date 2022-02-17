@@ -1,6 +1,6 @@
 ## University assignment for Reinforcement Learning course
 
-Two different implementations of the multi-armed bandit problem using reinforcement learning in combinations with various exploration/exploitation methods.
+Two different implementations of the multi-armed bandit problem using reinforcement learning in combination with various exploration/exploitation methods.
 
 The file [`normal.py`](normal.py) models the multi-armed bandit problem in which the reward obtained from each action is sampled from a Gaussian distribution. 
 
